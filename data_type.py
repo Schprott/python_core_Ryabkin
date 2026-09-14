@@ -1,0 +1,3 @@
+slovo='Hello'
+
+print(slovo)
