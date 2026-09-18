@@ -1,3 +1,3 @@
-testing=" auto "
+testing = " auto "
 
 print(testing.strip())

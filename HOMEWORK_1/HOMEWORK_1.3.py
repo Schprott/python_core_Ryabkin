@@ -1,5 +1,5 @@
-stroka="stroka"
+stroka = "stroka"
 
-result=stroka.replace("a","ing")
+result = stroka.replace("a", "ing")
 
 print(result)

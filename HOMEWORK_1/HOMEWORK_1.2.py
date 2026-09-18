@@ -1,4 +1,4 @@
 URL = "www.my_site.com#about"
-result=URL.replace("#","/")
+result = URL.replace("#", "/")
 
 print(result)
