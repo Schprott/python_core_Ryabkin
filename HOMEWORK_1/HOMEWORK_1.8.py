@@ -2,4 +2,4 @@
 City = {"People", "Street", "Houses", "Cats"}
 it = "Cats"
 
-print(it in City)
+print("Cats" in City)

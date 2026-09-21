@@ -1,4 +1,7 @@
 name = "Ivanou Ivan"
-name2 = name.replace("Ivanou Ivan", "Ivan Ivanou")
+name2 = name.split()
 
-print(name2)
+print(name2[1], name2[0])
+
+
+

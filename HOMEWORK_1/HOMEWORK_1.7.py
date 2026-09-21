@@ -8,5 +8,5 @@ numbers = [
     [88, 81, 79, 100]
 ]
 
-print(number[1])
+print(number[1:2])
 print(numbers[2][3])
