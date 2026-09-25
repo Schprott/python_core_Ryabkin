@@ -1,6 +1,6 @@
 # Результаты автотестов. Статистика пройденных автотестов.
-
-countity = 10
+quantity_tests= int(input("Введите количество тестов: "))
+countity =  quantity_tests
 status_pass = 0
 status_fail = 0
 status_skip = 0
