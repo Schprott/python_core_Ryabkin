@@ -1,3 +1,4 @@
+
 # Вывод нужных символов
 x = "My name is Agent Smith"
 
