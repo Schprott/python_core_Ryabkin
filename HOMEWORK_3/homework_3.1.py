@@ -8,8 +8,8 @@ def get_test_statistics(results):
     status_pass = 0 #счётчики статусов
     status_fail = 0
     status_skip = 0
-#Перебор каждого статуса из списка status_2
-    for x in status_2:
+#Перебор каждого статуса из списка results
+    for x in results:
         if x == "PASS":
             status_pass += 1
         elif x == "FAIL":
