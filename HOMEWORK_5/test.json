@@ -1,0 +1,6 @@
+[
+    {"name": "login", "status": "PASS", "time": 0.9},
+    {"name": "password", "status": "FAIL", "time": 1.5},
+    {"name": "email", "status": "SKIP", "time": 0.5},
+    {"name": "age", "status": "PASS", "time": 1.9}
+]
