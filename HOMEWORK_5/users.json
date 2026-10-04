@@ -1,0 +1,20 @@
+[{
+  "login": "Roman",
+  "password": "12345678",
+  "expected_result": "PASS"
+},
+{
+  "login": "Anton",
+  "password": "87654321",
+  "expected_result": "PASS"
+},
+{
+  "login": "Ivan",
+  "password": "11223344",
+  "expected_result": "PASS"
+},
+{
+  "login": "Danil",
+  "password": "99887766",
+  "expected_result": "PASS"
+}]
