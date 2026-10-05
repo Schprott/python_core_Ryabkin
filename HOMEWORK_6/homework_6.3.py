@@ -1,3 +1,4 @@
+from functools import wraps
 
 def log_test(test):
     def wrapper(*args, **kwargs):
