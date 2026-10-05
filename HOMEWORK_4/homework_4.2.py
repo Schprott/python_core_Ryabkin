@@ -16,7 +16,7 @@ for x in result:
         minus_numbers.append(new_numbers)
 # Создаем два новых файла с четными и нечетными числами
 with open("plus_numbers.txt","w") as file:
-    file.write(str(plus_numbers))
+    file.write("\n".join(map(str, plus_numbers)))
 with open("minus_numbers.txt","w") as file:
-    file.write(str(minus_numbers))
+    file.write("\n".join(map(str, minus_numbers)))
 # Не понял, надо ли переводить новые файлы в числа, и если надо то как...
